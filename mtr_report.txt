@@ -698,9 +698,6 @@ HOST: kontrust                    Loss%   Snt   Last   Avg  Best  Wrst StDev
  10.|-- 216.239.47.87              5.0%    20  276.7 292.8 250.3 373.7  28.5
  11.|-- ???                       100.0    20    0.0   0.0   0.0   0.0   0.0
  12.|-- 8.8.8.8                    0.0%    20  269.0 281.5 243.3 309.4  15.4
-
-====Switch to Plugg====
-
 Start: Tue Sep  9 22:00:01 2014
 HOST: kontrust                    Loss%   Snt   Last   Avg  Best  Wrst StDev
   1.|-- 192.168.1.1                0.0%    20    0.5   0.5   0.4   0.6   0.0
