@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/bin/mtr -i5 -s0 -n -r -c 20 8.8.8.8 >> /tmp/mtr_report.txt
