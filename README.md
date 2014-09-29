@@ -34,3 +34,6 @@ run the php script against it
 ```bash
 $ php -f report.php /tmp/mtr_report.php
 ```
+# Graph
+![Graph]
+(https://github.com/SilverCode/ExchangeCongestion/blob/master/exchange_congestion.png)
